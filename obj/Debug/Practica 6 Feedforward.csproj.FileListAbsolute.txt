@@ -1,0 +1,22 @@
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.exe.config
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.exe
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.pdb
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.AssemblyReference.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.SuggestedBindingRedirects.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica_6_Feedforward.Form1.resources
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica_6_Feedforward.Properties.Resources.resources
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.GenerateResource.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.CoreCompileInputs.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.exe
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.exe.config
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\bin\Debug\Practica 6 Feedforward.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.AssemblyReference.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.SuggestedBindingRedirects.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica_6_Feedforward.Form1.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica_6_Feedforward.Properties.Resources.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.GenerateResource.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.csproj.CoreCompileInputs.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 6 Feedforward\obj\Debug\Practica 6 Feedforward.pdb
